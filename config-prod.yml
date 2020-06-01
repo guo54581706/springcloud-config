@@ -1,4 +1,4 @@
 # this is dev-config
 config:
-      info: master   prod
+      info: master   prod-version 2
 
